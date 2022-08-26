@@ -1,3 +1,7 @@
-"hello world"
+# "hello world"
 
-hello_world
+# times do
+#   puts 'hi'
+# end
+
+1 + 1
